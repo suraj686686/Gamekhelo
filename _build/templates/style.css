@@ -1,0 +1,7 @@
+a, a:visited { color: darkblue; text-decoration: none; }
+img { border: 1px solid darkgrey; }
+.headline { background-color:   hsl(224, 76%, 45%); color: honeydew; font-size: 120%; font-weight: bold; margin: 0; text-align: center; }
+.list { display: flex; flex-wrap: wrap; justify-content: center; margin: 0; }
+.game { background-color: white; border: 1px solid black; margin: 5px; padding: 10px 5px 0 5px; text-align: center; width: 118px;}
+.game:hover{ background-color:   hsl(224, 76%, 45%);color:white; }
+.platform { background-color: transparent; color: grey; font-size: small; padding: 2px; text-align: right; }

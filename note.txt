@@ -1,0 +1,15 @@
+if need to add new game open file  _build/games.php add game according to 
+ 'game-name' => [
+        'name'    => 'name',
+        'tag'     => 'tagline',
+        'license' => 'UNKNOWN',
+        'git'     => 'url of git',
+        'mobile'  => false,
+        'desktop' => true,
+    ],
+and add logo on _logo folder with game name , 
+
+if you updated the code run command on command
+
+cd _build
+php build.php  install
